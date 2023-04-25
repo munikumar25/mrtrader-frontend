@@ -1,0 +1,44 @@
+ul {
+    list-style-type: none;
+  }
+
+  .list{
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  .nav-pills li a:hover{
+    background-color: blue;
+  }
+
+  .header{
+    position: sticky;
+    top: 0; 
+     z-index: 5;
+  }
+
+
+  .sidenav{
+    position:fixed;
+  }
+
+  ul
+  {
+    text-align: left;
+  }
+
+  col-12 col-2 col-10{
+    margin:0;
+    padding:0;
+  }
+
+  /* .content{
+    margin-left: "225px";
+    background:"light-greens";
+    height:"100vh";
+  }
+  @media only screen and (max-width: 600px) {
+    .content {
+      margin-left: "50px";
+    }
+  } */

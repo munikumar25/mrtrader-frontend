@@ -1,0 +1,14 @@
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-collapse {
+        padding-left: 130vh;
+        display: flex!important;
+        flex-basis: auto;
+        float: left;
+    }
+   
+}
+.logoContent{
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
